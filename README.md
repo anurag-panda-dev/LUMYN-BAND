@@ -16,6 +16,8 @@ Brain • Heart • Motion • Intelligence
 <img src="https://img.shields.io/badge/Brain-Computer_Interface-5E35B1?style=for-the-badge">
 <img src="https://img.shields.io/badge/Real--Time-Biosignal_Processing-1565C0?style=for-the-badge">
 <img src="https://img.shields.io/badge/Artificial_Intelligence-TinyML-2E7D32?style=for-the-badge">
+<img src="https://img.shields.io/badge/License-CERNOHL1.1-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/License-apache2.0-blue?style=for-the-badge">
 
 <br>
 
