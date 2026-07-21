@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="assets/logo/BRANDINGlight.png" alt="LUMYN BAND" width="200">
+<!-- <img src="assets/logo/BRANDINGlight.png" alt="LUMYN BAND" width="200"> -->
+<img src="https://lh3.googleusercontent.com/d/1shwbKQBjHtHhpzxGwAsecUNk0L_33mF8" alt="LUMYN BAND" width="200">
 
 # LUMYN BAND
 
@@ -306,7 +307,8 @@ Each component is developed independently while remaining tightly integrated thr
 
 <div align="center">
 
-<img src="assets/logo/HARDWARE.png" width="180">
+<!-- <img src="assets/logo/HARDWARE.png" width="180"> -->
+<img src="https://lh3.googleusercontent.com/d/1dlgekcqvFXvweS7TfaUM38sP77KMgoqZ" alt="LUMYN BAND HARDWARE" width="180">
 
 ### Wearable Neurotechnology Device
 
@@ -371,7 +373,8 @@ It combines multiple biomedical sensors with a powerful low-energy microcontroll
 
 <div align="center">
 
-<img src="assets/logo/SOFTWARE.png" width="180">
+<!-- <img src="assets/logo/SOFTWARE.png" width="180"> -->
+<img src="https://lh3.googleusercontent.com/d/11zNVyO-opkyBh6QIA9b8N4CjciNxqo55" alt="LUMYN BAND SOFTWARE" width="180">
 
 ### Embedded Intelligence
 
@@ -749,7 +752,7 @@ Comprehensive documentation is available for every subsystem of the Lumyn platfo
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/anurag-panda-dev/Lumyn.git
+git clone https://github.com/anurag-panda-dev/LUMYN.git
 cd Lumyn
 ```
 
@@ -1110,7 +1113,8 @@ Our goal is to empower developers, researchers, students, and innovators to buil
 
 *Intelligent Neurotechnology Platform*
 
-<img src="assets/logo/BRANDINGlight.png" width="140" alt="Lumyn Band Logo">
+<!-- <img src="assets/logo/BRANDINGlight.png" width="140" alt="Lumyn Band Logo"> -->
+<img src="https://lh3.googleusercontent.com/d/1shwbKQBjHtHhpzxGwAsecUNk0L_33mF8" alt="LUMYN BAND" width="160">
 
 ---
 
